@@ -2,7 +2,7 @@ main div {
   border-radius: 50%;
   width: 100px;
   height: 100px;
-  background-color: hotpink;
+  background-color: solid red;
   position: absolute;
   transition: all 3s;
 }
